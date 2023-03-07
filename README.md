@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Diego Krefta GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&show_icons=true&theme=radical)
+![Diego Krefta GitHub stats](https://github-readme-stats.vercel.app/api?username=dkrefta&count_private=true&show_icons=true&theme=radical)
 
 <!--
 **dkrefta/dkrefta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
